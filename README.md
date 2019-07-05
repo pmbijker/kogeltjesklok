@@ -4,4 +4,4 @@ Inspired by the rolling ball clock by Harley Mayenschein (Idle Tyme Corporation)
 The button shifts the clock manually per minute; uncomment row 80 for automatic shifting.
 ![alt tag](https://github.com/pmbijker/kogeltjesklok/blob/master/kogeltjesklok_screen.jpg)
 
-See online: http://www.peterbijker.nl/kogeltjeskloks
+See online: http://www.peterbijker.nl/kogeltjesklok
